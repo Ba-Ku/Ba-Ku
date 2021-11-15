@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ba-Ku
-- 👀 I’m interested in frontend and backend webdevelopment
-- 🌱 I’m currently learning Angular, JS, TS, Php, Java, HTML, CSS
+- 👀 I’m interested in frontend/backend webdevelopment and all things that are webrelated.
+- 🌱 I’m currently learning Angular, JS, TS, HTML, CSS, Php, Java
 <!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me ...
 
